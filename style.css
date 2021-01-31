@@ -1,0 +1,79 @@
+.headerbg{
+    background: rgb(252, 247, 245);
+}
+.headstyle{
+    padding-bottom: 100px;
+    padding-top: 10px;
+}
+.headtext{
+    padding: 110px;
+}
+.textOrange{
+    color: tomato;
+}
+.buybtn{
+
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: rgb(71, 71, 241);
+}
+.textBlue{
+    color: rgb(43, 58, 70);
+}
+.cardfooter{
+    padding: 20px;
+}
+.card{
+    border: none;
+    border-radius: 20px;
+    padding-right: 25px;
+    box-shadow: 0 3px 10px 0 lightgray;
+}
+
+.card:hover{
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px 0 rgb(127, 172, 109);
+    
+}
+.card img{
+    width: 70%;
+    margin: 20px auto;
+    margin-top: 50px;
+}
+.card-title{
+    font-weight: bold;
+}
+.card-text{
+    color: gray;
+    font-size: 14px;
+}
+.formalShoesStyle{
+    margin-top: 50px;
+    margin-bottom: 120px;
+}
+.servicestyle{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.serviceimg{
+    margin-right: 20px;
+}
+.servicecard{
+    background: rgb(255, 255, 255);
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px 0 lightgray;
+}
+.serviceimgleft{
+    padding: 80px;
+}
+.contectus{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    padding: 80px;
+    background: rgb(214, 197, 193);
+    
+}
